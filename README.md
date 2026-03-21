@@ -6,7 +6,6 @@
 ## 🚀 About Me
 - 🌱 Currently learning: DSA + Web Dev  
 - 💻 Interested in: Full Stack Development  
-- ⚡ Fun fact: Code + Bakchodi combo  
 
 ---
 
