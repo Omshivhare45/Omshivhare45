@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Shivhare</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**Omshivhare45/Omshivhare45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: DSA + Web Dev  
+- 💻 Interested in: Full Stack Development  
+- ⚡ Fun fact: Code + Bakchodi combo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,mysql,git,github" />
+</p>
