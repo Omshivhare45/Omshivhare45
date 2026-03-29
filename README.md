@@ -5,7 +5,8 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning: DSA + Web Dev  
-- 💻 Interested in: Full Stack Development  
+- 💻 Interested in: Full Stack Development
+- ✉️ Connect with me - omshivhare666@gmail.com
 
 ---
 
