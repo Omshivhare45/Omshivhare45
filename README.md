@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=c084fc&center=true&vCenter=true&width=550&height=50&lines=Crafting+interfaces+people+love+%E2%9C%A8;Solving+problems+one+algo+at+a+time+%F0%9F%A7%A0;React+%7C+JavaScript+%7C+Java+%7C+C%2B%2B;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
+ 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Omshivhare45&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0d0d0d" />
