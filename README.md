@@ -155,6 +155,5 @@ contact: omshivhare666@gmail.com
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d0a5e,100:0a0a0f&height=130&section=footer&animation=fadeIn" />
 
 </div>
