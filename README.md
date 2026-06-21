@@ -123,13 +123,6 @@ contact: omshivhare666@gmail.com
 
 ---
 
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omshivhare45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
 
 ## 📈 &nbsp;Contribution Activity
 
