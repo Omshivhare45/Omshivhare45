@@ -139,21 +139,6 @@ contact: omshivhare666@gmail.com
 
 ---
 
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omshivhare45/Omshivhare45/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omshivhare45/Omshivhare45/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Omshivhare45/Omshivhare45/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <sub>💡 Enable snake: add <code>.github/workflows/snake.yml</code> — <a href="https://github.com/Platane/snk">setup guide here</a></sub>
-</div>
-
----
 
 ## 💬 &nbsp;Dev Quote of the Day
 
