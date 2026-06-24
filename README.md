@@ -120,25 +120,6 @@ contact: omshivhare666@gmail.com
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omshivhare45&theme=tokyonight&hide_border=true&background=0d0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e2e2&border_radius=10&dates=8b8b9e" />
 
 </div>
-
----
-
-
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omshivhare45&bg_color=0d0d14&color=c084fc&line=7c3aed&point=e2c4ff&area_color=7c3aed&area=true&hide_border=true&border_radius=10&custom_title=Om's%20Contribution%20Graph" />
-</div>
-
----
-
-
-## 💬 &nbsp;Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
 ---
 
 <div align="center">
