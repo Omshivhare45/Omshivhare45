@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"> 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=c084fc&center=true&vCenter=true&width=550&height=50&lines=Crafting+interfaces+people+love+%E2%9C%A8;Solving+problems+one+algo+at+a+time+%F0%9F%A7%A0;React+%7C+JavaScript+%7C+Java+%7C+C%2B%2B;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=c084fc&center=true&vCenter=true&width=550&height=50&lines=Crafting+interfaces+people+love+%E2%9C%A8;Solving+problems+one+algo+at+a+time+%F0%9F%A7%A0;React+%7C+Tailwind+%7C+TypeScript+%7C+Java;Full+Stack+%7C+MongoDB+%7C+Docker+%7C+AI%2FML+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
  
 <br/><br/>
@@ -34,19 +34,30 @@ location: India 🇮🇳
 role:     Full Stack Developer
 
 focus:
-  - Building polished web applications
+  - Building polished, production-ready web apps
   - Mastering DSA in C++
-  - Writing clean, scalable code
+  - Designing scalable backend systems
+  - Writing clean, maintainable code
 
 strengths:
-  - React · JavaScript · HTML/CSS
-  - Java · C/C++ · Python
-  - MySQL · Git · GitHub
+  languages:
+    - C++ · Java · Python
+    - JavaScript · TypeScript
+  frontend:
+    - React · Tailwind CSS · HTML/CSS
+  backend_and_infra:
+    - Node.js · Redis · Docker
+  databases:
+    - MySQL · MongoDB
+  exploring:
+    - AI / Machine Learning
 
 currently:
   - 📚 Deep-diving into Algorithms
-  - ⚛️  Leveling up in React
-  - 🏗️  Building real-world projects
+  - ⚛️  Leveling up in React, TypeScript & Tailwind
+  - 🐳 Exploring Docker & containerized workflows
+  - 🤖 Getting hands-on with AI/ML
+  - 🏗️  Building real-world full stack projects
 
 contact: omshivhare666@gmail.com
 ```
@@ -60,11 +71,17 @@ contact: omshivhare666@gmail.com
 
 🧩 &nbsp; **Problem Solver** by nature  
 ⚛️ &nbsp; **React** apps that actually ship  
+🟦 &nbsp; **TypeScript** for safer, cleaner code  
+🎨 &nbsp; **Tailwind CSS** for fast, clean UI  
 ☕ &nbsp; **Java** for strong fundamentals  
+🐍 &nbsp; **Python** for scripting & automation  
 🧠 &nbsp; **DSA** in C++ — grinding daily  
-🎨 &nbsp; **UI/UX** nerd at heart  
+🍃 &nbsp; **MongoDB** for flexible data  
+🐬 &nbsp; **MySQL** for relational data  
+🐳 &nbsp; **Docker** for containerized apps  
+⚡ &nbsp; **Redis** for caching & performance  
+🤖 &nbsp; **AI/ML** — currently exploring  
 🌐 &nbsp; **Full Stack** — from DB to DOM  
-📦 &nbsp; **Git** commit streaks > gym streaks  
 🤝 &nbsp; Always open to **collaborate**
 
 <br/>
@@ -82,26 +99,24 @@ contact: omshivhare666@gmail.com
 <div align="center">
 
 **Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,c" />
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Backend, Database & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,redis,docker" />
 
-**Database & Tools**
+**Tools & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,opencv" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
+
+![AI/ML](https://img.shields.io/badge/Exploring-AI%20%2F%20ML-c084fc?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
@@ -120,6 +135,7 @@ contact: omshivhare666@gmail.com
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omshivhare45&theme=tokyonight&hide_border=true&background=0d0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e2e2&border_radius=10&dates=8b8b9e" />
 
 </div>
+
 ---
 
 <div align="center">
