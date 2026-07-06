@@ -122,24 +122,6 @@ contact: omshivhare666@gmail.com
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=Omshivhare45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=c084fc&icon_color=a855f7&text_color=e2e2e2&ring_color=7c3aed&border_radius=10" />
-&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshivhare45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=c084fc&text_color=e2e2e2&border_radius=10&langs_count=8" />
-
-<br/><br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omshivhare45&theme=tokyonight&hide_border=true&background=0d0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e2e2&border_radius=10&dates=8b8b9e" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 &nbsp;Let's build something great together
 
 <a href="mailto:omshivhare666@gmail.com">
