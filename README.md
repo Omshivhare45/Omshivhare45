@@ -34,18 +34,7 @@
 
 Hey, I'm **Om** — a full stack developer from India who enjoys turning ideas into fast, polished products and turning tricky problems into clean algorithms. I spend my days shipping React/Node applications, and my nights grinding DSA in C++ because I genuinely like the puzzle of it.
 
-I care about writing code that's simple to read six months later, about backend systems that don't fall over under load, and about UI that feels good to use — not just functional. Right now I'm expanding into containerized, cache-backed architectures (Docker + Redis) and dipping into AI/ML to see where it fits into the products I build.
 
-```yaml
-name:     Om Shivhare
-location: India 🇮🇳
-role:     Full Stack Developer (MERN)
-
-focus:
-  - Building polished, production-ready web apps
-  - Mastering DSA in C++
-  - Designing scalable, cache-backed backend systems
-  - Writing clean, maintainable code
 
 strengths:
   languages:
@@ -59,13 +48,6 @@ strengths:
     - MySQL · PostgreSQL · MongoDB
   exploring:
     - AI / Machine Learning
-
-currently:
-  - 📚 Deep-diving into Algorithms
-  - ⚛️  Leveling up in React, TypeScript & Tailwind
-  - 🐳 Building containerized, cache-backed systems
-  - 🤖 Getting hands-on with AI/ML
-  - 🏆 Sharpening skills on LeetCode, GFG & CodeChef
 
 contact: omshivhare666@gmail.com
 ```
