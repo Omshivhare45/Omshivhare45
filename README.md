@@ -32,39 +32,23 @@
 
 ### 👤 &nbsp;Who Am I?
 
-Hey, I'm **Om** — a full stack developer from India who enjoys turning ideas into fast, polished products and turning tricky problems into clean algorithms. I spend my days shipping React/Node applications, and my nights grinding DSA in C++ because I genuinely like the puzzle of it.
-
-I care about writing code that's simple to read six months later, about backend systems that don't fall over under load, and about UI that feels good to use — not just functional. Right now I'm expanding into containerized, cache-backed architectures (Docker + Redis) and dipping into AI/ML to see where it fits into the products I build.
+Hey, I'm **Om** — a full stack developer from India who loves turning ideas into fast, polished products, and DSA problems into clean algorithms. I ship React/Node apps by day and grind C++ DSA by night, and I'm currently exploring Docker + Redis and dipping into AI/ML.
 
 ```yaml
 name:     Om Shivhare
 location: India 🇮🇳
 role:     Full Stack Developer (MERN)
 
-focus:
-  - Building polished, production-ready web apps
-  - Mastering DSA in C++
-  - Designing scalable, cache-backed backend systems
-  - Writing clean, maintainable code
-
 strengths:
-  languages:
-    - C++ · Java · Python
-    - JavaScript · TypeScript
-  frontend:
-    - React · Tailwind CSS · HTML/CSS
-  backend_and_infra:
-    - Node.js · Express · Docker · Redis
-  databases:
-    - MySQL · PostgreSQL · MongoDB
-  exploring:
-    - AI / Machine Learning
+  languages: C++ · Java · Python · JS/TS
+  frontend:  React · Tailwind · HTML/CSS
+  backend:   Node.js · Express · Docker · Redis
+  databases: MySQL · PostgreSQL · MongoDB
+  exploring: AI / Machine Learning
 
 currently:
   - 📚 Deep-diving into Algorithms
-  - ⚛️  Leveling up in React, TypeScript & Tailwind
   - 🐳 Building containerized, cache-backed systems
-  - 🤖 Getting hands-on with AI/ML
   - 🏆 Sharpening skills on LeetCode, GFG & CodeChef
 
 contact: omshivhare666@gmail.com
@@ -179,7 +163,7 @@ contact: omshivhare666@gmail.com
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/omshivhare45/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="52" title="LinkedIn" />
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="52" height="52" title="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/o_shivhare/" target="_blank">
