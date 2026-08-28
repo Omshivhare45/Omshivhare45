@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,70:2d0a5e,100:0a0a0f&height=220&section=header&text=Om%20Shivhare&fontSize=72&fontColor=e2c4ff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=62&descSize=16&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
-
+ 
 <div align="center">
  
 <a href="https://git.io/typing-svg"> 
