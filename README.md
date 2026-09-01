@@ -150,7 +150,7 @@ contact: omshivhare666@gmail.com
 
 ---
 
-### 🤝 &nbsp;Let's Connect
+### 🤝 &nbsp;Let's Connect or say Hi!!
 
 <div align="center">
 
