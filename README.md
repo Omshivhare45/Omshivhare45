@@ -32,7 +32,7 @@
 
 ### 👤 &nbsp;Who Am I?
 
-Hey, I'm **Om** — a full stack developer from India who loves turning ideas into fast, polished products, and DSA problems into clean algorithms. I ship React/Node apps by day and grind C++ DSA by night, and I'm currently exploring Docker + Redis and dipping into AI/ML.
+Hey, I'm **Om Shivhare** — a full stack developer from India who loves turning ideas into fast, polished products, and DSA problems into clean algorithms. I ship React/Node apps by day and grind C++ DSA by night, and I'm currently exploring Docker + Redis and dipping into AI/ML.
 
 ```yaml
 name:     Om Shivhare
